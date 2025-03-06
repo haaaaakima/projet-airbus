@@ -1,5 +1,6 @@
-Voici en image un projet académique que j'ai réalisé en groupe avec des intervenants d'Airbus
+Voici en quelques images le projet
 
+![Architecture sad](./architecture-sad.png)
 
 ![Dashboard](./dashboard%20airbus.jpeg)
 
