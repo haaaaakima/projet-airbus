@@ -1,5 +1,3 @@
-Voici en quelques images le projet
-
 ![Architecture sad](./architecture-sad.png)
 
 ![Dashboard](./dashboard%20airbus.jpeg)
